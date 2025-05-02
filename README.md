@@ -1,4 +1,6 @@
-# Final-Exam
+# University Scholarship Project Creation and Donors Application
+
+
 ## Name : Chandler Guthrie
 ## WSUID: 011801740
 
